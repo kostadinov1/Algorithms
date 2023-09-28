@@ -1,7 +1,7 @@
 
 // Merge sort recursive implementation
 // It's used as the built-in JS Array.sort()
-// Performance: O(n log n)
+// Complexity: O(n log n)
 // Drawbacks: It does not sort in place and uses a lot of memory
 
 export function mergeSort(arr) {

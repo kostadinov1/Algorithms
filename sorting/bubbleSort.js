@@ -1,4 +1,6 @@
-
+// Bubble sort
+// Complexity = O(n^2) 
+// Slow with longer arrays
 
 
 export function bubbleSort(arr) {
